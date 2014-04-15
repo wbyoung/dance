@@ -5,7 +5,7 @@ var expect = require('chai').expect;
 
 describe('dance', function() {
   describe('solve()', function() {
-    it('solves matrixes', function() {
+    it('solves matrices', function() {
       var matrix = [
         [1, 0, 0, 1, 0, 0, 1],
         [1, 0, 0, 1, 0, 0, 0],
@@ -15,7 +15,6 @@ describe('dance', function() {
         [0, 1, 0, 0, 0, 0, 1]
       ];
       expect(dlx.solve(matrix)).to.eql([[1, 3, 5]]);
-
     });
   });
 });
