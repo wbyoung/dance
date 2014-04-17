@@ -20,7 +20,7 @@ dlx.solve(matrix); //=> [[1, 3, 5]]
 
 ## License
 
-This project is distributed under the MIT-LICENSE.
+This project is distributed under the MIT license.
 
 [knuth-dancing]: http://www-cs-faculty.stanford.edu/~uno/papers/dancing-color.ps.gz
 [exact-cover]: http://en.wikipedia.org/wiki/Exact_cover
