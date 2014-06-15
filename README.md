@@ -1,6 +1,6 @@
 # Dancing Links Implementation
 
-[![NPM version][npm-image]][npm-url] [![Build status][travis-image]][travis-url] [![Code Climate][codeclimate-image]][codeclimate-url] [![Coverage Status][coverage-image]][coverage-url] [![Dependencies][david-image]][david-url]
+[![NPM version][npm-image]][npm-url] [![Build status][travis-image]][travis-url] [![Code Climate][codeclimate-image]][codeclimate-url] [![Coverage Status][coverage-image]][coverage-url] [![Dependencies][david-image]][david-url] [![devDependencies][david-dev-image]][david-dev-url]
 
 An implementation of Donald Knuth's [Dancing Links Algorithm][knuth-dancing]
 to solve [exact cover][exact-cover] problems.
@@ -35,3 +35,5 @@ This project is distributed under the MIT license.
 [coverage-url]: https://coveralls.io/r/wbyoung/dance
 [david-image]: https://david-dm.org/wbyoung/dance.png?theme=shields.io
 [david-url]: https://david-dm.org/wbyoung/dance
+[david-dev-image]: https://david-dm.org/wbyoung/dance/dev-status.png?theme=shields.io
+[david-dev-url]: https://david-dm.org/wbyoung/dance#info=devDependencies
